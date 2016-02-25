@@ -86,10 +86,6 @@ class Rust < Formula
       end
 
       system "./configure", "--prefix=#{prefix}", "--local-rust-root=#{prefix}", "--enable-optimize"
-      
-      # Snapshots.txt for 1.6.0 are NOT compatible with crates.io
-      system 
-      
       system "make"
       system "make", "install"
     end
