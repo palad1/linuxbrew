@@ -1,3 +1,4 @@
+test
 # Code of Conduct
 The Homebrew community is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth. When you're working with members of the community, we encourage you to follow these guidelines which help steer our interactions and strive to keep Homebrew a positive, successful, and growing community.
 
